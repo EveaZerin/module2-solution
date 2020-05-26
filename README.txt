@@ -1,1 +1,3 @@
-https://eveazerin.github.io/module2-solution/
+Basic responsiveness using only html and css.
+
+Site link: https://eveazerin.github.io/module2-solution/
